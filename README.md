@@ -1,7 +1,7 @@
 <img src="header.png">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cs,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cs,dotnet" />
   </a>
 </p>
 <p align="center">
