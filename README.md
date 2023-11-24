@@ -8,4 +8,5 @@
   <img src="https://badges.pufler.dev/years/Yomaaaaaaaa">
   <img src="https://badges.pufler.dev/visits/{username}/{repo}">
   <img src="https://badges.pufler.dev/created/{username}/{repo}">
+  <img src="https://badges.pufler.dev/contributors/{user}/{repo}?size={number}&padding={number}&perRow={number}&bots={boolean}">
 </p>
