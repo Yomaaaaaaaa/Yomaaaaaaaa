@@ -1,7 +1,7 @@
 <img src="header.png">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,kubernetes,visualstudio,c,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,visualstudio,c,cs,dotnet" />
   </a>
 </p>
 <p align="center">
